@@ -10,6 +10,6 @@ app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(cors());
 
-app.listen(process.env.PORT || 8080, () => {
+app.listen(process.env.PORT || 3333, () => {
   console.log('🚀 Server started on port 3333');
 });
