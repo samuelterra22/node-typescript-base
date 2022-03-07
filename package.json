@@ -1,11 +1,11 @@
 {
   "name": "node-typescript-base",
   "version": "1.0.0",
-  "repository": "git@github.com:samuelterra22/node-real-time-chat.git",
+  "repository": "git@github.com:samuelterra22/node-typescript-base.git",
   "author": "Samuel Terra <samuelterra@deltainova.com.br>",
   "license": "MIT",
   "engines": {
-    "node": "14.17.0"
+    "node": "^14.17.0"
   },
   "main": "src/server.ts",
   "scripts": {
